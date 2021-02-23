@@ -11,7 +11,6 @@
 - &nbsp; 🛢 MySQL | PostgreSQL
 - &nbsp; 🔧 Git | Markdown | RSpec | Heroku | Bootstrap
 <br>
-<br>
 <a href="https://www.linkedin.com/in/marcoerhardt95/">
   <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" width="80" />
 </a>
