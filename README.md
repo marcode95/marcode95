@@ -5,12 +5,13 @@
 </a>
 <br>
 <br>
-<h3> Tech Stack</h3>
+<h3> 🛠 Tech Stack</h3>
 
-- &nbsp; HTML | CSS | Ruby on Rails | Python
-- &nbsp; MySQL | PostgreSQL
-- &nbsp; Git | Markdown | RSpec | Heroku | Bootstrap
-
+- &nbsp; 💻 HTML | CSS | Ruby on Rails | Python
+- &nbsp; 🛢 MySQL | PostgreSQL
+- &nbsp; 🔧 Git | Markdown | RSpec | Heroku | Bootstrap
+<br>
+<br>
 <a href="https://www.linkedin.com/in/marcoerhardt95/">
-  <img align="center" src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png" width="150" />
+  <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" width="80" />
 </a>
