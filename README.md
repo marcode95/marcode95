@@ -7,7 +7,7 @@
 <br>
 <h3> 🛠 Tech Stack</h3>
 
-- &nbsp; 💻 HTML | CSS | Ruby on Rails | Python
+- &nbsp; 💻 HTML | CSS | Javascript | React | Redux | Ruby on Rails | Python
 - &nbsp; 🛢 MySQL | PostgreSQL
 - &nbsp; 🔧 Git | Markdown | RSpec | Heroku | Bootstrap
 <br>
